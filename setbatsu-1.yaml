@@ -1,0 +1,18 @@
+center: !include members/praewa_suthamphong.yaml
+members:
+- !include members/cherprang_areekul.yaml
+- !include members/christin_larsen.yaml
+- !include members/isarapa_thawatpakdee.yaml
+- !include members/jennis_oprasert.yaml
+- !include members/jetsupa_kruetang.yaml
+- !include members/kanteera_wadcharathadsanakul.yaml
+- !include members/milin_dokthian.yaml
+- !include members/miori_ohkubo.yaml
+- !include members/napaphat_worraphuttanon.yaml
+- !include members/natruja_chutiwansopon.yaml
+- !include members/nayika_srinian.yaml
+- !include members/patchanan_jiajirachote.yaml
+- !include members/praewa_suthamphong.yaml
+- !include members/punsikorn_tiyakorn.yaml
+- !include members/sawitchaya_kajonrungsilp.yaml
+- !include members/warattaya_deesomlert.yaml
